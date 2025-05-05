@@ -3,6 +3,13 @@
 
 ## Setup
 
+This project uses the following files that can be found on Kaggle:
+Parking_Violations_Issued_-_Fiscal_Year_2014__August_2013___June_2014_.csv
+Parking_Violations_Issued_-_Fiscal_Year_2015.csv
+Parking_Violations_Issued_-_Fiscal_Year_2016.csv
+Parking_Violations_Issued_-_Fiscal_Year_2017.csv
+shot_logs.csv
+
 Before running any tests or Spark jobs, start the cluster using:
 
 ```bash
